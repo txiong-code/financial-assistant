@@ -1,0 +1,33 @@
+date,description,amount,balance
+2026-01-26,Opening deposit,3000.00,3000.00
+2026-01-27,Whole Foods Market,-87.43,2912.57
+2026-01-28,Spotify,-9.99,2902.58
+2026-01-29,Con Edison electric,-124.00,2778.58
+2026-01-30,Venmo transfer,-200.00,2578.58
+2026-01-31,Chipotle,-14.75,2563.83
+2026-02-01,Amazon Prime,-16.99,2546.84
+2026-02-02,CVS Pharmacy,-23.40,2523.44
+2026-02-03,Payroll deposit,2800.00,5323.44
+2026-02-04,Trader Joe's,-61.20,5262.24
+2026-02-05,Netflix,-15.49,5246.75
+2026-02-06,Uber,-18.30,5228.45
+2026-02-07,AT&T wireless,-85.00,5143.45
+2026-02-08,Duane Reade,-34.10,5109.35
+2026-02-09,Sweetgreen,-16.25,5093.10
+2026-02-10,Rent payment,-1800.00,3293.10
+2026-02-11,IKEA,-143.60,3149.50
+2026-02-12,Paypal transfer,-250.00,2899.50
+2026-02-13,Whole Foods Market,-72.15,2827.35
+2026-02-14,Starbucks,-6.75,2820.60
+2026-02-15,Valentine dinner,-95.00,2725.60
+2026-02-16,Uber Eats,-32.40,2693.20
+2026-02-17,Chase credit card payment,-400.00,2293.20
+2026-02-18,Con Edison electric,-118.00,2175.20
+2026-02-19,Payroll deposit,2800.00,4975.20
+2026-02-20,Trader Joe's,-54.80,4920.40
+2026-02-21,Gym membership,-49.99,4870.41
+2026-02-22,Lyft,-22.10,4848.31
+2026-02-23,Amazon.com,-67.89,4780.42
+2026-02-24,Chipotle,-13.50,4766.92
+2026-02-25,Barnes & Noble,-28.00,4738.92
+2026-02-26,Duane Reade,-19.75,4719.17
