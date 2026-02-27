@@ -75,7 +75,7 @@ If Pass 2 still can't classify — or if `affordability_check` is returned witho
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/financial-assistant
+git clone https://github.com/txiong-code/financial-assistant
 cd financial-assistant
 npm install
 cp .env.example .env.local
